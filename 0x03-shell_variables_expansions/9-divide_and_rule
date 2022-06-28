@@ -1,4 +1,2 @@
 #!/bin/bash
-echo $((POWER/DIVIDE))
-
-
+9-divide_and_rule contains 4, it should be 2
